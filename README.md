@@ -7,7 +7,7 @@ Time spent: **2** hours spent in total
 
 ## Summary
 
-**YoutubeAPI** is an android app that **an app that displays a scrollable list of thumbnails from the YouTubeDataAPI V3")**
+**YoutubeAPI** is an android app that **that displays a scrollable list of thumbnails from the YouTubeDataAPI V3")**
 
 If I had to describe this project in three (3) emojis, they would be: **😀🎉👍**
 
@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/DYvr3xF.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/DYvr3xF.gif' title='Video Demo' width='400' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
