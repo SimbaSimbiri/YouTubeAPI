@@ -37,6 +37,9 @@ Here's a  GIF that demos all of the app's implemented features:
 
 <img src='https://i.imgur.com/7nRzElk.gif' title='API Demo' width='450' alt='Video Demo' />
 
+
+![ezgif com-optimize](https://github.com/SimbaSimbiri/YouTubeAPI/assets/105386979/2610fa6f-be75-4728-9d52-beea6be8ed7d)
+
 GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
