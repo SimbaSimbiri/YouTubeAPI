@@ -31,11 +31,11 @@ The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## Video Demo
+## Demo
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a  GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/DYvr3xF.gif' title='Video Demo' width='400' alt='Video Demo' />
+<img src='https://i.imgur.com/jBwHxXa.gif' title='API Demo' width='400' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
