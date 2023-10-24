@@ -29,7 +29,7 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] I implemented a runnable that is implemented automatically after five seconds by the root decor view of my activity. User doesn't need a button to fetch data.
 
 ## Demo
 
