@@ -8,6 +8,10 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="primaryColor">#FA3A0707</color>
+    <color name="primareColor">#FA3A0707</color>
+
+
     <color name="karbBackgrndtint">#5C2C2A</color>
     <color name="titleNews">#592825</color>
     <color name="darkGreyColor">#3BFFFFFF</color>

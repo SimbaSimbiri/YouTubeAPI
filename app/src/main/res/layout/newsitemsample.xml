@@ -39,6 +39,7 @@
             android:layout_marginStart="10dp"
             android:textColor="@color/white"
             android:textSize="13sp"
+            android:theme="@style/titleTextStyle"
             app:layout_constraintBottom_toBottomOf="@+id/imageViewNews"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
@@ -47,11 +48,15 @@
             app:layout_constraintVertical_bias="1.0" />
 
         <TextView
+            android:id="@+id/textDate"
+            android:theme="@style/titleTextStyle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@color/navColor"
+            android:fontFamily=""
+            app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"/>
+            tools:fontFamily="@font/baloo_paaji_2_semibold" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

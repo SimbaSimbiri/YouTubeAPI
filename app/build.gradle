@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace 'com.simbiri.youtubeapi'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.simbiri.youtubeapi"
-        minSdk 28
+        minSdk 27
         targetSdk 32
         versionCode 1
         versionName "1.0"
@@ -25,7 +25,6 @@ android {
             keyPassword 'simba19'
         }
 
-        //below is our signing key of my app, you will use this and the SHA key related to gain access to Google Console APIs
         release {
             storeFile file('C:\\Users\\hp\\OneDrive\\Documents\\myKeystore\\my-apps-release-key.jks')
             storePassword 'simba19'
@@ -44,13 +43,17 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+    buildToolsVersion '33.0.0'
 }
 
 dependencies {
