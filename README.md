@@ -16,35 +16,30 @@ If I had to describe this project in three (3) emojis, they would be: **😀🎉
 
 The following REQUIRED features are completed:
 
-- [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Implement a RecyclerView to display a list of entries from the API
-- [x] Display at least three (3) pieces of data for each RecyclerView item
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [x] Use a downloadable font with custom color and size
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a UI element for the user to interact with API further
-- [ ] Show a `Toast` or `Snackbar` when an item is clicked
-- [ ] Add item dividers with `DividerItemDecoration`
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
 
 The following EXTRA features are implemented:
 
-- [x] I implemented a runnable that is implemented automatically after five seconds by the root decor view of my activity. User doesn't need a button to fetch data.
+- [ ] List anything else that you added to improve the app!
 
 ## Demo
 
 Here's a  GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/7nRzElk.gif' title='API Demo' width='450' alt='Video Demo' />
+![ezgif com-optimize](https://github.com/SimbaSimbiri/YouTubeAPI/assets/105386979/25ea68ba-765e-44d2-802d-5a259b66e61a)
 
 
-![ezgif com-optimize](https://github.com/SimbaSimbiri/YouTubeAPI/assets/105386979/2610fa6f-be75-4728-9d52-beea6be8ed7d)
 
 GIF created with **ScreenToGif**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
